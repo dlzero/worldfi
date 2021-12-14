@@ -8,7 +8,7 @@ https://worldfi.herokuapp.com/
 
 Search and Explore based on weather, cost of living, distance to airport, and more!
 
-<img src="sshot_general.jpg">
+<img height="50%" width="50%" src="sshot_general.jpg">
 
 
 <div>
